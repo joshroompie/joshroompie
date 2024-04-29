@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshroompie
-- 👀 I’m interested in full-stack web development
+- 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning Laravel, Vue and Nuxt
 - 📫 joshwarner.dev (when I actually get around to making it!)
 
