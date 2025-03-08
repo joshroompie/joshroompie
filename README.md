@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshroompie
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning Laravel, TypeScript, and Nuxt
+- 🌱 I’m currently learning TypeScript, and NextJS
 - 📫 joshwarner.dev (when I actually get around to making it!)
 
 <!---
